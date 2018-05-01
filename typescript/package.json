@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typescript": "^2.8.3",
+    "viz.js": "^2.0.0-pre.5"
+  },
+  "scripts": {
+    "build": "tsc test.ts"
+  }
+}
