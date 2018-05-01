@@ -1,34 +1,38 @@
-# viz-examples
-
-Example usage for Viz.js.
+# Viz.js Examples
 
 ## Rollup
 
-Demonstrates running Viz.js using a Web Worker, bundled with Rollup.
+Viz.js using a Web Worker, bundled with Rollup.
 
+    cd rollup
     yarn install
     yarn build
 
-Then serve the dist/ directory over HTTP.
+Then serve the `rollup/dist` directory over HTTP.
 
 ## Script Tag
 
-Demonstrates running Viz.js using just script tags.
+Viz.js with and without using a Web Worker.
 
+    cd script-tag
     yarn install
+
+For the `worker.html` example, make sure the `script-tag` directory is served over HTTP.
 
 ## TypeScript
 
-Demonstrates running Viz.js from TypeScript code.
+Demonstrates importing and using Viz.js in TypeScript.
 
+    cd typescript
     yarn install
     yarn build
 
 ## Webpack
 
-Demonstrates running Viz.js using a Web Worker, bundled with Webpack.
+Viz.js using a Web Worker, bundled with Webpack.
 
+    cd webpack
     yarn install
     yarn build
 
-Then serve the dist/ directory over HTTP.
+Then serve the `webpack/dist` directory over HTTP.
