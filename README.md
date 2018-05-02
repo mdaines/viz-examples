@@ -19,14 +19,6 @@ Viz.js with and without using a Web Worker.
 
 For the `worker.html` example, make sure the `script-tag` directory is served over HTTP.
 
-## TypeScript
-
-Demonstrates importing and using Viz.js in TypeScript.
-
-    cd typescript
-    yarn install
-    yarn build
-
 ## Webpack
 
 Viz.js using a Web Worker, bundled with Webpack.
