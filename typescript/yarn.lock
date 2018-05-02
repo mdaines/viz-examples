@@ -6,6 +6,6 @@ typescript@^2.8.3:
   version "2.8.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.8.3.tgz#5d817f9b6f31bb871835f4edf0089f21abe6c170"
 
-viz.js@^2.0.0-pre.5:
-  version "2.0.0-pre.5"
-  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.0.0-pre.5.tgz#75a5e0898653cc82fd4bbe1a1a2cb6c5388cfcca"
+viz.js@^2.0.0-pre.6:
+  version "2.0.0-pre.6"
+  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.0.0-pre.6.tgz#5c435019c6a406567d14520d40bb024dd7d2e65e"
