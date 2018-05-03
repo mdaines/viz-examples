@@ -8,10 +8,10 @@
   <script src="node_modules/viz.js/viz.js"></script>
   <script>
     
-    let viz = new Viz({ worker: 'node_modules/viz.js/full.js.opaque' });
+    var viz = new Viz({ worker: 'node_modules/viz.js/full.js.opaque' });
 
     viz.renderSVGElement('digraph { a -> b; }')
-    .then(element => {
+    .then(function(element) {
       document.body.appendChild(element);
     });
     

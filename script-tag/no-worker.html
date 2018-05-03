@@ -9,10 +9,10 @@
   <script src="node_modules/viz.js/full.js.opaque"></script>
   <script>
     
-    let viz = new Viz();
+    var viz = new Viz();
 
     viz.renderSVGElement('digraph { a -> b; }')
-    .then(element => {
+    .then(function(element) {
       document.body.appendChild(element);
     });
     
