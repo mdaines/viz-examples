@@ -1,7 +1,7 @@
 import Viz from 'viz.js';
-import worker from 'viz.js/full.js.opaque';
+import workerURL from 'viz.js/full.render.js';
 
-var viz = new Viz({ worker });
+var viz = new Viz({ workerURL });
 
 viz.renderSVGElement('digraph { a -> b; }')
 .then(function(element) {

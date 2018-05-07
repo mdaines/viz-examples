@@ -8,7 +8,7 @@
   <script src="node_modules/viz.js/viz.js"></script>
   <script>
     
-    var viz = new Viz({ worker: 'node_modules/viz.js/full.js.opaque' });
+    var viz = new Viz({ workerURL: 'node_modules/viz.js/full.render.js' });
 
     viz.renderSVGElement('digraph { a -> b; }')
     .then(function(element) {

@@ -10,7 +10,7 @@ export default {
   },
   plugins: [
     url({
-      include: ['**/*.js.opaque']
+      include: ['**/*.render.js']
     }),
     nodeResolve(),
     commonjs({

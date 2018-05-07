@@ -10,7 +10,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.js\.opaque$/,
+        test: /\.render\.js$/,
         use: ['file-loader']
       }
     ]

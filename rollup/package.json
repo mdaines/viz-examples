@@ -9,6 +9,6 @@
     "build": "rollup -c"
   },
   "dependencies": {
-    "viz.js": "^2.0.0-pre.7"
+    "viz.js": "^2.0.0-pre.8"
   }
 }
