@@ -28,3 +28,13 @@ Viz.js using a Web Worker, bundled with Webpack.
     yarn build
 
 Then serve the `webpack/dist` directory over HTTP.
+
+## Webpack (No Worker)
+
+Viz.js without using a Web Worker, bundled with Webpack.
+
+    cd webpack-same-context
+    yarn install
+    yarn build
+
+Then serve the `webpack/dist` directory over HTTP.
