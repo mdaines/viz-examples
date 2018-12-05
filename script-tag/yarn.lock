@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-viz.js@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.0.0.tgz#d34aa8e68f3b4eb7107f16ea6d1530a77109f315"
+viz.js@2.1.2-pre.1:
+  version "2.1.2-pre.1"
+  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.2-pre.1.tgz#37f4a0760ce564ba3c9a8788e2a420b083a11a44"

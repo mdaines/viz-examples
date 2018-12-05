@@ -8,6 +8,6 @@
     "build": "webpack"
   },
   "dependencies": {
-    "viz.js": "^2.0.0"
+    "viz.js": "2.1.1"
   }
 }
