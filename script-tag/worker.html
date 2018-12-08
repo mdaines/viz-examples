@@ -4,18 +4,18 @@
   <meta charset="utf-8">
 </head>
 <body>
-  
+
   <script src="node_modules/viz.js/viz.js"></script>
   <script>
-    
+
     var viz = new Viz({ workerURL: 'node_modules/viz.js/full.render.js' });
 
     viz.renderSVGElement('digraph { a -> b; }')
     .then(function(element) {
       document.body.appendChild(element);
     });
-    
+
   </script>
-  
+
 </body>
 </html>
