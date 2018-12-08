@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "rollup": "^0.67.4",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-ignore": "^1.0.4",
+    "rollup-plugin-node-resolve": "^3.4.0"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "viz.js": "2.1.2"
+  }
+}

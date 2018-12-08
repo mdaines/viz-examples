@@ -10,6 +10,16 @@ Viz.js using a Web Worker, bundled with Rollup.
 
 Then serve the `rollup/dist` directory over HTTP.
 
+## Rollup (No Worker)
+
+Viz.js using a Web Worker, bundled with Rollup.
+
+    cd rollup-no-worker
+    yarn install
+    yarn build
+
+Then serve the `rollup/dist` directory over HTTP.
+
 ## Script Tag
 
 Viz.js with and without using a Web Worker.
