@@ -43,7 +43,7 @@ Then serve the `webpack/dist` directory over HTTP.
 
 Viz.js without using a Web Worker, bundled with Webpack.
 
-    cd webpack-same-context
+    cd webpack-no-worker
     yarn install
     yarn build
 
