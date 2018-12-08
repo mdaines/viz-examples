@@ -311,6 +311,6 @@ sourcemap-codec@^1.4.1:
   version "1.4.4"
   resolved "https://registry.yarnpkg.com/sourcemap-codec/-/sourcemap-codec-1.4.4.tgz#c63ea927c029dd6bd9a2b7fa03b3fec02ad56e9f"
 
-viz.js@2.1.2-pre.1:
-  version "2.1.2-pre.1"
-  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.2-pre.1.tgz#37f4a0760ce564ba3c9a8788e2a420b083a11a44"
+viz.js@2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.2.tgz#6f09cd4e10af28754a6d50b055bd2e4a7693983a"

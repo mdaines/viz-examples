@@ -4171,9 +4171,9 @@ vinyl@^2.0.1:
     remove-trailing-separator "^1.0.1"
     replace-ext "^1.0.0"
 
-viz.js@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.1.tgz#2d2d5b7d036796811734240678af3add3de09498"
+viz.js@2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/viz.js/-/viz.js-2.1.2.tgz#6f09cd4e10af28754a6d50b055bd2e4a7693983a"
 
 vm-browserify@0.0.4:
   version "0.0.4"
